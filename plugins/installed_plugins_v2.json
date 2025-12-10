@@ -1,0 +1,126 @@
+{
+  "version": 2,
+  "plugins": {
+    "code-review@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/home/jusvalen/.claude/plugins/cache/claude-code-plugins/code-review/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-10T21:32:47.055Z",
+        "lastUpdated": "2025-12-10T21:32:47.055Z",
+        "gitCommitSha": "e095e1270a6f033b5eaa4054f053ee7a43d9ecd1",
+        "isLocal": true
+      }
+    ],
+    "commit-commands@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/home/jusvalen/.claude/plugins/cache/claude-code-plugins/commit-commands/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-10T21:32:47.055Z",
+        "lastUpdated": "2025-12-10T21:32:47.055Z",
+        "gitCommitSha": "e095e1270a6f033b5eaa4054f053ee7a43d9ecd1",
+        "isLocal": true
+      }
+    ],
+    "explanatory-output-style@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/home/jusvalen/.claude/plugins/cache/claude-code-plugins/explanatory-output-style/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-10T21:32:47.055Z",
+        "lastUpdated": "2025-12-10T21:32:47.055Z",
+        "gitCommitSha": "e095e1270a6f033b5eaa4054f053ee7a43d9ecd1",
+        "isLocal": true
+      }
+    ],
+    "feature-dev@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/home/jusvalen/.claude/plugins/cache/claude-code-plugins/feature-dev/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-10T21:32:47.055Z",
+        "lastUpdated": "2025-12-10T21:32:47.055Z",
+        "gitCommitSha": "e095e1270a6f033b5eaa4054f053ee7a43d9ecd1",
+        "isLocal": true
+      }
+    ],
+    "frontend-design@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/home/jusvalen/.claude/plugins/cache/claude-code-plugins/frontend-design/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-10T21:32:47.055Z",
+        "lastUpdated": "2025-12-10T21:32:47.055Z",
+        "gitCommitSha": "e095e1270a6f033b5eaa4054f053ee7a43d9ecd1",
+        "isLocal": true
+      }
+    ],
+    "hookify@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/home/jusvalen/.claude/plugins/cache/claude-code-plugins/hookify/0.1.0",
+        "version": "0.1.0",
+        "installedAt": "2025-12-10T21:32:47.055Z",
+        "lastUpdated": "2025-12-10T21:32:47.055Z",
+        "gitCommitSha": "e095e1270a6f033b5eaa4054f053ee7a43d9ecd1",
+        "isLocal": true
+      }
+    ],
+    "learning-output-style@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/home/jusvalen/.claude/plugins/cache/claude-code-plugins/learning-output-style/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-10T21:32:47.055Z",
+        "lastUpdated": "2025-12-10T21:32:47.055Z",
+        "gitCommitSha": "e095e1270a6f033b5eaa4054f053ee7a43d9ecd1",
+        "isLocal": true
+      }
+    ],
+    "plugin-dev@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/home/jusvalen/.claude/plugins/cache/claude-code-plugins/plugin-dev/0.1.0",
+        "version": "0.1.0",
+        "installedAt": "2025-12-10T21:32:47.055Z",
+        "lastUpdated": "2025-12-10T21:32:47.055Z",
+        "gitCommitSha": "e095e1270a6f033b5eaa4054f053ee7a43d9ecd1",
+        "isLocal": true
+      }
+    ],
+    "pr-review-toolkit@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/home/jusvalen/.claude/plugins/cache/claude-code-plugins/pr-review-toolkit/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-10T21:32:47.055Z",
+        "lastUpdated": "2025-12-10T21:32:47.055Z",
+        "gitCommitSha": "e095e1270a6f033b5eaa4054f053ee7a43d9ecd1",
+        "isLocal": true
+      }
+    ],
+    "ralph-wiggum@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/home/jusvalen/.claude/plugins/cache/claude-code-plugins/ralph-wiggum/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-10T21:32:47.055Z",
+        "lastUpdated": "2025-12-10T21:32:47.055Z",
+        "gitCommitSha": "e095e1270a6f033b5eaa4054f053ee7a43d9ecd1",
+        "isLocal": true
+      }
+    ],
+    "security-guidance@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/home/jusvalen/.claude/plugins/cache/claude-code-plugins/security-guidance/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-10T21:32:47.055Z",
+        "lastUpdated": "2025-12-10T21:32:47.055Z",
+        "gitCommitSha": "e095e1270a6f033b5eaa4054f053ee7a43d9ecd1",
+        "isLocal": true
+      }
+    ]
+  }
+}

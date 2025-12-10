@@ -1,0 +1,47 @@
+# ============================================
+# Sensitive Data - NEVER commit these
+# ============================================
+.credentials.json
+settings.json
+settings.local.json
+
+# ============================================
+# Session & History - Contains private data
+# ============================================
+history.jsonl
+projects/
+
+# ============================================
+# Runtime & Cache - Ephemeral data
+# ============================================
+debug/
+todos/
+plans/
+shell-snapshots/
+file-history/
+session-env/
+downloads/
+
+# ============================================
+# Analytics & Telemetry
+# ============================================
+statsig/
+
+# ============================================
+# IDE-specific (often contains paths/state)
+# ============================================
+ide/
+
+# ============================================
+# Memory files may contain sensitive context
+# ============================================
+memory/
+
+# ============================================
+# TRACKED (not ignored) - Your customizations:
+# - hooks/
+# - agents/
+# - plugins/
+# - commands/
+# - skills/
+# ============================================
