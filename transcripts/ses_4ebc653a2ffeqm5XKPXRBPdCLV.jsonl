@@ -1,3 +1,0 @@
-{"type":"user","timestamp":"2025-12-12T20:21:22.685Z","content":"use the grep tool to search for 'test' in files\n"}
-{"type":"tool_use","timestamp":"2025-12-12T20:21:25.326Z","tool_name":"grep","tool_input":{"pattern":"test"}}
-{"type":"tool_result","timestamp":"2025-12-12T20:21:25.340Z","tool_name":"grep","tool_input":{"pattern":"test"},"tool_output":{}}

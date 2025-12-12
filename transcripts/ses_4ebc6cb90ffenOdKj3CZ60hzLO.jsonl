@@ -1,2 +1,0 @@
-{"type":"user","timestamp":"2025-12-12T20:20:51.985Z","content":"@librarian what tools do you have available\n"}
-{"type":"tool_use","timestamp":"2025-12-12T20:20:56.036Z","tool_name":"task","tool_input":{"subagent_type":"librarian","description":"Query librarian capabilities","prompt":"What tools do you have available? Please list all the tools you can use and briefly describe what each one does."}}
