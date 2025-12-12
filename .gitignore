@@ -10,6 +10,7 @@ settings.local.json
 # ============================================
 history.jsonl
 projects/
+transcripts/
 
 # ============================================
 # Runtime & Cache - Ephemeral data
