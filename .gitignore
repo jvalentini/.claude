@@ -39,10 +39,16 @@ ide/
 memory/
 
 # ============================================
+# Plugin cache and installed plugins state
+# ============================================
+plugins/installed_plugins.json
+plugins/cache/
+
+# ============================================
 # TRACKED (not ignored) - Your customizations:
 # - hooks/
 # - agents/
-# - plugins/
+# - plugins/ (except cache/ and installed_plugins.json)
 # - commands/
 # - skills/
 # ============================================
