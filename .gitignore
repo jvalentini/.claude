@@ -42,6 +42,7 @@ memory/
 # Plugin cache and installed plugins state
 # ============================================
 plugins/installed_plugins.json
+plugins/known_marketplaces.json
 plugins/cache/
 
 # ============================================
